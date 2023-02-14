@@ -4,14 +4,20 @@
 
 * Criar uma lista de jogos onde você pode adcionar ou remover outros jogos.
 
+<hr>
+
 ### Bibliotecas usadas nesta API:
 
 * Mongoose.
+
+<hr>
 
 ### Linguagens usadas:
 
 * JavaScript;
 * React.
+
+<hr>
 
 ### Instruções para uso:
 
