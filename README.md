@@ -14,8 +14,7 @@
 
 ### Linguagens usadas:
 
-* JavaScript;
-* React.
+* JavaScript.
 
 <hr>
 
